@@ -24,9 +24,7 @@ Beginner in FullStack programming in javascript. <br>
 
 I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
 </p>
-<br />
 <h3 align="left">Languages ​​and tools</h3>
-<br />
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
