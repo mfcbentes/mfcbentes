@@ -40,7 +40,7 @@ I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ javascript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"/>
