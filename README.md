@@ -73,6 +73,7 @@ I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
     alt="mfcbentes"
   />
 </p>
+<br />
 <p>
   <img 
     align="center"
