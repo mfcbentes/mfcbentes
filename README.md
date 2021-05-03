@@ -73,7 +73,7 @@ I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
     alt="mfcbentes"
   />
 </p>
-<p>&nbsp;
+<p>
   <img 
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=mfcbentes&show_icons=true&locale=en" alt="mfcbentes"
