@@ -60,7 +60,7 @@ I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
   </a>
   <a href="https://adonisjs.com/" target="_blank">
     <img
-    src="https://adonisjs.com/images/logo.svg"
+    src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4"
     alt="adonisjs"
     width="40"
     height="40"/>
