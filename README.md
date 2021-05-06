@@ -47,7 +47,7 @@ I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4"
       alt="nodejs"
       width="40"
       height="40"/>
