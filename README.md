@@ -22,7 +22,7 @@ I have experience in Oracle database. <br>
 
 Beginner in FullStack programming in javascript. <br>
 
-I am currently studying the Angular, Vue, Adonis and Spring framewoks. <br>
+I am currently studying the Library ReactJs and VueJS, AdonisJS, Laravel and Spring framewoks. <br>
 </p>
 <h3 align="left">Languages ​​and tools</h3>
 <p align="left">
